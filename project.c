@@ -30,7 +30,6 @@ printf("\n\t\tEnter the choice: ");
 
 scanf("%d",&choice); 
 
-
 switch(choice) 
 { 
 case 1: 
